@@ -29,11 +29,11 @@ export default function HomePage() {
 
           <h1 className="text-3xl sm:text-4xl md:text-6xl font-extrabold leading-tight tracking-tight mb-4">
             <span className="text-white">Quiz anyone,</span><br />
-            <span className={theme.gradientText}>any age.</span>
+            <span className={theme.gradientText}>any audience.</span>
           </h1>
 
           <p className="text-white/50 text-base sm:text-lg mb-6 sm:mb-8 max-w-xl mx-auto leading-relaxed">
-            Pick a topic, add your players. AI creates age-perfect questions for each person — play solo, with family, or with friends online.
+            Discover profitable digital product ideas with ProductPulse. Analyze market trends and get personalized suggestions.
           </p>
 
           {/* Two CTAs: solo play + create room */}
