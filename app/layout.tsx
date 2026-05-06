@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title:       config.metaTitle,
-  description: 'Discover profitable digital product ideas with ProductPulse. Analyze market trends, get personalized suggestions, and unlock your entrepreneurial potential.',
+  description: 'Unlock profitable digital product ideas with ProductPulse. Analyze market trends, get AI-driven suggestions, and boost your entrepreneurial success.',
   keywords:    config.keywords,
 }
 
